@@ -1,4 +1,4 @@
-# Ritumati V7 — Pink NGO Website
+# Ritumati V8 — Pink NGO Website
 
 This version follows the approved pink reference layout.
 
@@ -36,3 +36,7 @@ Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
 
 Expected URL:
 `https://abhishek05102001.github.io/Ritumati/`
+
+
+## District naming
+Bokaro is displayed only as **Bokaro**. Jamshedpur is used only as the city alias for **East Singhbhum**.
