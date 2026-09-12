@@ -1,4 +1,4 @@
-# Ritumati V8 — Pink NGO Website
+# Ritumati V9 — Pink NGO Website
 
 This version follows the approved pink reference layout.
 
@@ -40,3 +40,9 @@ Expected URL:
 
 ## District naming
 Bokaro is displayed only as **Bokaro**. Jamshedpur is used only as the city alias for **East Singhbhum**.
+
+
+## V9 fixes
+- Bokaro never displays a Jamshedpur alias, even if the sheet contains one.
+- Mission image uses the full artwork without cropping the handwritten “Informed Today. Healthier Tomorrows.” text.
+- Responsive layout retained for desktop, tablet and mobile.
